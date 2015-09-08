@@ -1,0 +1,4 @@
+Using C++ STL 
+Considered adjacency list approach for graphs
+Adjacency list is a vector of list.
+Compiled and running on Code::Blocks 13.12
