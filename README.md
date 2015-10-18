@@ -1,3 +1,3 @@
-# algorithms
-Programs for various algorithms
-v1.0 -> Graphs
+# algorithms  
+Programs for various algorithms  
+v1.0 -> Graphs  
