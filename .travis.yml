@@ -1,2 +1,3 @@
 language: cpp
-script: weighted_digraph.cpp
+script: g++ weighted_digraph.cpp
+        ./a.out
