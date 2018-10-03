@@ -1,4 +1,4 @@
-public class insertion_sort {
+public class InsertionSort {
     /**
      * insertion sort picks up the current element(i) and checks it against its previous element(j = i-1 until j>=0) and place it
      * takes O(n^2) and inplace algo with no extra space
@@ -6,7 +6,7 @@ public class insertion_sort {
      * @return
      */
 
-    public static int[] insertionSort(int[] arr) {
+    public static int[] insertionSort(final int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             int keyToBeInserted = arr[i];
             int j = i - 1;
